@@ -16,8 +16,6 @@ A sleek and minimal **Daily Task Scheduler** app built using Python and Tkinter.
 - 💬 Feedback alerts upon completing tasks
 
 
-## 🚀 Getting Started
-
 ### Prerequisites
 
 - Python 3.x
