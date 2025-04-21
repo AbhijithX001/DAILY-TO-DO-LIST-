@@ -7,7 +7,7 @@ A sleek and minimal **Daily Task Scheduler** app built using Python and Tkinter.
 ## 🖥️ Features
 
 - 📝 Add and manage daily tasks
-- ✅ Tick to mark task as completed (task auto-deletes with a motivational message)
+- ✅ Tick to mark task as completed (task auto-deletes with a message)
 - 💾 Save tasks locally using JSON
 - 🎨 Aesthetic UI with:
   - Dark black background
@@ -15,13 +15,6 @@ A sleek and minimal **Daily Task Scheduler** app built using Python and Tkinter.
   - Colorful checkboxes
 - 💬 Feedback alerts upon completing tasks
 
----
-
-## 📸 Screenshot
-
-![screenshot](screenshot.png)
-
----
 
 ## 🚀 Getting Started
 
